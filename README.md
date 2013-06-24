@@ -23,7 +23,7 @@ Example:
     }
 ```
 ## DEVICE TO CONFIGURE
-select Network Installation and url http://hostname/sources/<name>/
+select Network Installation and url http://hostname/sources/name/
 
 ## Author
 ramgop
